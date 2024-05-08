@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483993498683",
+    "project_id": "pet-wellness-app",
+    "storage_bucket": "pet-wellness-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483993498683:android:43899f4d27dda6dc72d81e",
+        "android_client_info": {
+          "package_name": "com.example.pet_wellness_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcpVqTHm_G9a9ofbR4MBkT7rLE2CKK6G8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
